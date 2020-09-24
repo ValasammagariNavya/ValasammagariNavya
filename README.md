@@ -7,6 +7,8 @@
 ## Automation FrameWork:
 <!--- Languages --->
 <img align="left" alt="Selenium" width="26px" src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCICx5GOex9B1sIVkuPn49pr_kANqsoOq7ia1-OtEGiw&usqp=CAU&ec=45704945"" />
+<img align="left" alt="Jira" width="26px"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQdHrqIzjRPxCzv6cjZmqHdZg3vV2pLZsW9Ew5Ae9BVrw&usqp=CAU&ec=45704945"" />
+
 <!--
 **ValasammagariNavya/ValasammagariNavya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
