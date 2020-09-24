@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Navya.  👋
+## I'm a Quality Engineer, learning automation testing.
+<br />
+- ⚡ Fun fact: ... Movie remaker.
 
+<br />
+## Automation FrameWork:
+<!--- Languages --->
+<img align="left" alt="Selenium" width="26px" src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSCICx5GOex9B1sIVkuPn49pr_kANqsoOq7ia1-OtEGiw&usqp=CAU&ec=45704945"" />
 <!--
 **ValasammagariNavya/ValasammagariNavya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
